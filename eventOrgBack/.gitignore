@@ -42,11 +42,11 @@ application.yml
 ### Sensitive config ###
 application.properties
 application.yml
-galadarbsBack/src/main/resources/application.properties
-galadarbsBack/src/main/resources/application.yml
+eventOrgBack/src/main/resources/application.properties
+eventOrgBack/src/main/resources/application.yml
 
 ### Compiled files ###
-galadarbsBack/target/
+eventOrgBack/target/
 
 # Ignore zip files
 *.zip
